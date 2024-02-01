@@ -6,3 +6,6 @@ The goal of this analysis was to predict the quality of wine based on various ch
 Machine learning models were likely trained on this dataset to learn patterns and relationships between the input features and the quality of wine. Evaluation metrics such as ROC-AUC or accuracy may have been used to assess the performance of the models in predicting wine quality.
 
 The analysis is essential for understanding the factors influencing wine quality and can assist in optimizing wine production processes. Additionally, insights gained from this analysis may guide improvements in the wine-making process to enhance the overall quality of the final product.
+
+
+dataset : https://www.kaggle.com/datasets/sgus1318/winedata
